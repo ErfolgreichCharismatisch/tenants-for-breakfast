@@ -5,6 +5,7 @@
     "home_page_url": "https://erfolgreichcharismatisch.github.io/tenants-for-breakfast",
     "feed_url": "https://erfolgreichcharismatisch.github.io/tenants-for-breakfast/feed.json",
     "user_comment": "",
+    "icon": "https://erfolgreichcharismatisch.github.io/tenants-for-breakfast/media/website/kaffee.png",
     "author": {
         "name": "The Breakfaster"
     },
@@ -22,7 +23,7 @@
                    "tenants"
             ],
             "date_published": "2021-10-04T16:07:15+02:00",
-            "date_modified": "2021-10-04T16:07:15+02:00"
+            "date_modified": "2021-10-04T16:24:11+02:00"
         }
     ]
 }
