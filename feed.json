@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Having tenants for breakfast",
+    "description": "",
+    "home_page_url": "https://erfolgreichcharismatisch.github.io/tenants-for-breakfast",
+    "feed_url": "https://erfolgreichcharismatisch.github.io/tenants-for-breakfast/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "The Breakfaster"
+    },
+    "items": [
+        {
+            "id": "https://erfolgreichcharismatisch.github.io/tenants-for-breakfast/when-tenants-dont-pay.html",
+            "url": "https://erfolgreichcharismatisch.github.io/tenants-for-breakfast/when-tenants-dont-pay.html",
+            "title": "When tenants don&#x27;t pay",
+            "summary": "People get creative.",
+            "content_html": "<p>People get creative.</p>",
+            "author": {
+                "name": "The Breakfaster"
+            },
+            "tags": [
+                   "tenants"
+            ],
+            "date_published": "2021-10-04T16:07:15+02:00",
+            "date_modified": "2021-10-04T16:07:15+02:00"
+        }
+    ]
+}

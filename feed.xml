@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Having tenants for breakfast</title>
+    <link href="https://erfolgreichcharismatisch.github.io/tenants-for-breakfast/feed.xml" rel="self" />
+    <link href="https://erfolgreichcharismatisch.github.io/tenants-for-breakfast" />
+    <updated>2021-10-04T16:07:15+02:00</updated>
+    <author>
+        <name>The Breakfaster</name>
+    </author>
+    <id>https://erfolgreichcharismatisch.github.io/tenants-for-breakfast</id>
+
+    <entry>
+        <title>When tenants don&#x27;t pay</title>
+        <author>
+            <name>The Breakfaster</name>
+        </author>
+        <link href="https://erfolgreichcharismatisch.github.io/tenants-for-breakfast/when-tenants-dont-pay.html"/>
+        <id>https://erfolgreichcharismatisch.github.io/tenants-for-breakfast/when-tenants-dont-pay.html</id>
+            <category term="tenants"/>
+
+        <updated>2021-10-04T16:07:15+02:00</updated>
+            <summary>
+                <![CDATA[
+                    People get creative.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>People get creative.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
