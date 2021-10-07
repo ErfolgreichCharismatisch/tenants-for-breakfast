@@ -21,9 +21,10 @@
                 "name": "The Breakfaster"
             },
             "tags": [
+                   "auswandern"
             ],
             "date_published": "2021-10-07T21:31:54+02:00",
-            "date_modified": "2021-10-07T21:49:41+02:00"
+            "date_modified": "2021-10-07T21:56:29+02:00"
         },
         {
             "id": "https://erfolgreichcharismatisch.github.io/tenants-for-breakfast/when-tenants-dont-pay.html",
@@ -39,7 +40,7 @@
                    "tenants"
             ],
             "date_published": "2021-10-04T16:07:15+02:00",
-            "date_modified": "2021-10-07T21:49:59+02:00"
+            "date_modified": "2021-10-07T21:56:39+02:00"
         }
     ]
 }
