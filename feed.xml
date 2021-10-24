@@ -3,12 +3,41 @@
     <title>Having tenants for breakfast</title>
     <link href="https://erfolgreichcharismatisch.github.io/tenants-for-breakfast/feed.xml" rel="self" />
     <link href="https://erfolgreichcharismatisch.github.io/tenants-for-breakfast" />
-    <updated>2021-10-24T15:14:18+02:00</updated>
+    <updated>2021-10-24T16:59:31+02:00</updated>
     <author>
         <name>The Breakfaster</name>
     </author>
     <id>https://erfolgreichcharismatisch.github.io/tenants-for-breakfast</id>
 
+    <entry>
+        <title>True love</title>
+        <author>
+            <name>The Breakfaster</name>
+        </author>
+        <link href="https://erfolgreichcharismatisch.github.io/tenants-for-breakfast/true-love.html"/>
+        <id>https://erfolgreichcharismatisch.github.io/tenants-for-breakfast/true-love.html</id>
+
+        <updated>2021-10-24T16:59:31+02:00</updated>
+            <summary>
+                <![CDATA[
+                    I just watched And someone wrote The lock is functioning as intended. Like love, it's defeated by cheating. I say If having sex with another partner ends love, it wasn't true love. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I just watched</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/FqhWwzb-RY8" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p>And someone wrote</p>
+<blockquote>
+<p>The lock is functioning as intended. Like love, it's defeated by cheating.</p>
+</blockquote>
+<p>I say</p>
+<blockquote>
+<p>If having sex with another partner ends love, it wasn't true love.</p>
+</blockquote>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>About positive masculinity</title>
         <author>
@@ -17,7 +46,7 @@
         <link href="https://erfolgreichcharismatisch.github.io/tenants-for-breakfast/about-positive-masculinity.html"/>
         <id>https://erfolgreichcharismatisch.github.io/tenants-for-breakfast/about-positive-masculinity.html</id>
 
-        <updated>2021-10-24T15:14:18+02:00</updated>
+        <updated>2021-10-24T15:31:06+02:00</updated>
             <summary>
                 <![CDATA[
                     I saw this video My remarks: The solution is to choose the best free tutorial to then follow it. Protecting a woman and loved ones is overrated. The worst that happens to you is that a woman leaves you. And loved ones can protect themselves.
@@ -197,25 +226,5 @@
         <updated>2021-10-09T11:46:10+02:00</updated>
             <summary></summary>
         <content></content>
-    </entry>
-    <entry>
-        <title>Mind versus Sex drive</title>
-        <author>
-            <name>The Breakfaster</name>
-        </author>
-        <link href="https://erfolgreichcharismatisch.github.io/tenants-for-breakfast/mind-versus-sex-drive.html"/>
-        <id>https://erfolgreichcharismatisch.github.io/tenants-for-breakfast/mind-versus-sex-drive.html</id>
-
-        <updated>2021-10-09T11:45:25+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Recently I remembered that I can talk to women if I want to, that I don't have to. This relieved me a bit. Then I looked at their faces, their expressions and I realized, I don't want anything to do with a human like that.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Recently I remembered that I can talk to women if I want to, that I don't have to. This relieved me a bit. Then I looked at their faces, their expressions and I realized, I don't want anything to do with a human like that. If you look at female faces in public, they are never happy or inviting. Dismissive, angry, hateful, condescending is what I describe them.<br>They don't look at me and always pretend to be busy.<br>And I - being dressed whatever - am never good enough. Just stopping them without them rolling their eyes is very hard.<br>My sex drive has made me stay in that torture-loop of being horny and being rejected for more than 10 years now.<br>Also pickup advice made me stay there because they always say "try".</p>
-            ]]>
-        </content>
     </entry>
 </feed>
