@@ -1,3 +1,4 @@
+Sitemap: https://erfolgreichcharismatisch.github.io/tenants-for-breakfast/sitemap.xml
+
 User-agent: *
 Disallow:
-Sitemap: https://erfolgreichcharismatisch.github.io/tenants-for-breakfast/sitemap.xml
